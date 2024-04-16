@@ -4,7 +4,6 @@ channels:
 dependencies:
   - python=3.8
   - pip=20.0.2
-  - cudatoolkit=11.0
   - pip:
     - torch==1.7.0
     - fsspec==0.8.4
