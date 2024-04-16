@@ -1,3 +1,15 @@
+
+To run the experiment for the course machine learning for healthcare:
+
+## Usage
+
+```
+conda env create -f environment.yml
+conda activate nam-pt
+python run_heart_disease.py 
+```
+
+
 # [Neural Additive Models (PyTorch)](https://github.com/google-research/google-research/tree/master/neural_additive_models)
 
 This is a PyTorch re-implementation for neural additive models, check out:
